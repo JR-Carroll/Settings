@@ -1,4 +1,4 @@
-jSettings by J. R. Carroll
+Settings by J. R. Carroll
 =========
 
 Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me from PC to PC.   
