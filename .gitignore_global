@@ -1,0 +1,15 @@
+# Original ideas for this came from:
+# http://gledovic.com/ignore-files-with-gitignore-and-global-gitignore
+#
+# How to setup:
+# Step1:  Create this file and place it in a global directory of your choosing!
+# Step2:  Add this file to your git global config by typing:
+#         git config --global core.excludefile /path_you_picked/.file_name
+# Step3:  Add file names and file extensions to this file that you want ignored!
+
+# Eclipse Standard Ignores
+.project
+.pydevproject
+
+# Python ignores
+*.pyc
