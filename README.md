@@ -1,4 +1,4 @@
-jSettings
+jSettings by J. R. Carroll
 =========
 
 Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me from PC to PC.   
@@ -6,26 +6,23 @@ Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me
 
 <i>Explanation for each setting file (need to manually keep this section updated):</i>
 
-<b>Filename:</b>  .vimrc&#10;
-<b>Location:</b>  ~/
+<b>Filename:</b>  .vimrc <br />
+<b>Location:</b>  ~/ <br />
 <b>Description:</b>  Designed to contain all the vim settings specifically for when SSH'ed into a device that has 'wonky'
-character settings for the arrow keys.
+character settings for the arrow keys. <br />
 
-<b>Filename:</b>  .gitignore_global
-<b>Location:</b>  /workspace (or any global workspace of my own choosing)
+<b>Filename:</b>  .gitignore_global <br />
+<b>Location:</b>  /workspace (or any global workspace of my own choosing)<br />
 <b>Description:</b>  Designed to contain all the ignore-statements for git and the projects that I work on.  Examples include:
 .pyc, .project, pydevproject, and many others (more are added as needed).  For a complete list open the file and inspect
-the comments.
+the comments.<br />
 
-<b>Filename:</b>  .terminator.conf
-<b>Location:</b>  ~/.terminator
+<b>Filename:</b>  .terminator.conf<br />
+<b>Location:</b>  ~/.terminator<br />
 <b>Description:</b>  Has all the information needed to setup Terminator on the desktop for X window manager as well as multiple
 desktops.  Other settings include side-pannel functionality for commonly observed PC parameters and other metrics of
-concern.
+concern.<br />
 
-<b>Filename: </b> 
-<b>Location:</b>
-<b>Description:</b>
-test
-test
-test
+<b>Filename:</b>      <br />
+<b>Location:</b>      <br />
+<b>Description:</b>      <br />
