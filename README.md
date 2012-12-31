@@ -7,7 +7,6 @@ Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me
 <i>Explanation for each setting file (need to manually keep this section updated):</i>
 
 <b>Filename:</b>  .vimrc
-
 <b>Location:</b>  ~/
 <b>Description:</b>  Designed to contain all the vim settings specifically for when SSH'ed into a device that has 'wonky'
 character settings for the arrow keys.
