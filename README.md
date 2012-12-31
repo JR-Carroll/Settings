@@ -1,5 +1,7 @@
 Settings by J. R. Carroll
 =========
+<a href="www.jrcresearch.net">www.jrcresearch.net</a>
+<a href="mailto:jrcarroll@jrcresearch.net">jrcarroll{a}jrcresearch.net</a>
 
 Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me from PC to PC.   
 
