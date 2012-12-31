@@ -4,7 +4,7 @@ jSettings
 Contains all my vi/vim, emacs, eclipse, git, #!, etc... settings to take with me from PC to PC.   
 
 
-Explanation for each setting file (need to manually keep this section updated):
+<i>Explanation for each setting file (need to manually keep this section updated):</i>
 
 Filename:  .vimrc
 Location:  ~/
