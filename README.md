@@ -23,6 +23,6 @@ the comments.<br />
 desktops.  Other settings include side-pannel functionality for commonly observed PC parameters and other metrics of
 concern.<br />
 
-<b>Filename:</b>      <br />
-<b>Location:</b>      <br />
-<b>Description:</b>      <br />
+<b>Filename:</b> TBD     <br />
+<b>Location:</b>  TBD    <br />
+<b>Description:</b>  TBD    <br />
