@@ -1,5 +1,6 @@
 Settings by J. R. Carroll
 =========
+<hr>
 <a href="www.jrcresearch.net">www.jrcresearch.net</a><br />
 <a href="mailto:jrcarroll@jrcresearch.net">jrcarroll{a}jrcresearch.net</a>
 
